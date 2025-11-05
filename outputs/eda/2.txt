@@ -1,0 +1,7 @@
+Funnel Analysis Results: {'view_to_cart': 72147, 'cart_to_purchase': 28436, 'full_funnel': 28436}
+
+
+Analysis:
+    view_to_cart: 72,147 times that users moved from viewing an item to adding it to their cart within the specified 7-day period.
+    cart_to_purchase: 28,436 times that users proceeded from adding an item to the cart to completing the purchase within the 7-day window.
+    full_funnel: 28,436 times that users completed the full funnel sequence (viewing an item, adding it to the cart, and then purchasing) within 7 days.
